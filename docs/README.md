@@ -1,5 +1,5 @@
 # ZMOK Documentation
-> Unlimited, Fast, Fault Tolerant Ethereum JSON-RPC/WS API
+> Unlimited, Fast, Fault Tolerant Ethereum JSON-RPC/WS API.
 
 # Getting Started
 Getting started with ZMOK (https://zmok.io) takes just a few minutes once you’ve  [connected your wallet](https://zmok.io/wallet).
